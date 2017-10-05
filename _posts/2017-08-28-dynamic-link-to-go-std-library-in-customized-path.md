@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamically link to Go std library using customized path"
 date:   2017-08-28
 desc: "Dynamically link to Go std library using customized path"
-keywords: "Golang,link,gh-pages,website,blog,easy"
+keywords: "Golang,link,gh-pages,website,blog"
 categories: [golang]
 tags: [golang,linker]
 icon: icon-html
